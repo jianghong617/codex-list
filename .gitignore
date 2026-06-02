@@ -1,0 +1,9 @@
+node_modules/
+dist/
+vite-dev*.log
+.idea/
+*.log
+
+# Local troubleshooting helpers
+fix-idea-shortcut-icon.ps1
+idea64-wrapper.cs
