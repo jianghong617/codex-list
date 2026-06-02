@@ -7,7 +7,7 @@ import SnakeGame from "./components/SnakeGame.vue";
     <header class="site-header">
       <div>
         <p class="eyebrow">Vue3 / Vite</p>
-        <h1>贪吃的小蛇</h1>
+        <h1>贪吃蛇小游戏</h1>
       </div>
     </header>
 
