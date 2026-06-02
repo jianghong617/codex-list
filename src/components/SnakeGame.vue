@@ -352,7 +352,7 @@ onBeforeUnmount(() => {
         <div class="stat">得分 <b>{{ score }}</b></div>
         <div class="stat">最高 <b>{{ best }}</b></div>
       </div>
-      <button class="primary-button" type="button" @click="resetGame">重新开始</button>
+      <button class="primary-button" type="button" @click="resetGame">开始</button>
     </div>
 
     <div class="board-wrap">
